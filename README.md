@@ -7,7 +7,7 @@ Ringman - simple app for setting ringtones in Phosh
 
 It's a pretty simple bash script using yad for interface.
 
-# Use
+# Usage
 After the first run, the script will create a `~/.local/share/ringtones` directory.
 
 Put your audio files into this directory and run app again.
