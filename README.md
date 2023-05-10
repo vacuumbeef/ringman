@@ -19,4 +19,10 @@ Choosing file in the list will start playback of this file, for some sort of pre
 - ffmpeg
 
 # Installation
-Download or `git clone https://github.com/vacuumbeef/ringman` repository, make sure all the files are in the same directory and run `./install.sh` inside.
+Make sure you have dependencies installed in your system, then:
+
+```
+git clone https://github.com/vacuumbeef/ringman
+cd ringman
+./install.sh
+```
