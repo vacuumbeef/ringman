@@ -1,6 +1,9 @@
 # Ringman
+
+
+<img src="https://github.com/vacuumbeef/ringman/blob/main/ringman.png?raw=true" width="200" />
+
 RingMan - simple app for setting ringtones in Phosh
-![alt text](https://github.com/vacuumbeef/ringman/blob/main/ringman.png?raw=true)
 
 It's a pretty simple bash script using yad for interface.
 
