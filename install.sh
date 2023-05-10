@@ -1,10 +1,6 @@
-#!/bin/sh
-if [ ! -d "$HOME/.local/share/sounds/freedesktop/stereo" ]; then
-  mkdir -p $HOME/.local/share/sounds/freedesktop/stereo
-fi
-if [ ! -d "$HOME/.local/share/ringtones" ]; then
-  mkdir -p $HOME/.local/share/ringtones
-fi
+#!/bin/bash
+mkdir -p $HOME/.local/share/sounds/freedesktop/stereo
+mkdir -p $HOME/.local/share/ringtones
 
 sudo cp ringman /usr/bin/ringman
 sudo cp ringman.png /usr/share/icons/ringman.png
