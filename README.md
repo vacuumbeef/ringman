@@ -17,7 +17,7 @@ Choosing file in the list will start playback of this file, for some sort of pre
 # Dependencies
 - yad
 - ffmpeg
-- notify-send
+- libnotify-bin
 
 # Installation
 Make sure you have dependencies installed in your system, then:
