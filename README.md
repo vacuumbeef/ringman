@@ -27,3 +27,5 @@ git clone https://github.com/vacuumbeef/ringman
 cd ringman
 ./install.sh
 ```
+
+I suggest downloading ubports ringtones here - https://github.com/ubports/ubuntu-touch-sounds
